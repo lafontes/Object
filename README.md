@@ -1,11 +1,20 @@
 
-Object JavaScript
+#Object JavaScript
+
+
+
+
+
+
+
 
 <html>
     <head>
         <meta charset="UTF-8" />
     </head>
     <script>
+
+     
         const person = {
             name: "Lais",
             age: 40,
